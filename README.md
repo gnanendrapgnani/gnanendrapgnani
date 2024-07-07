@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, Git**
 
-- 📫 How to reach me **gnanendrapnani@gmail.com**
+- 📫 How to reach me **workgnanendrap27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
