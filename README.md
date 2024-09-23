@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, nodejs and mongoDB**
 
-- 👨‍💻 All of my projects are available at [https://gnanendrapgnani.github.io/gnani/](https://gnanendrapgnani.github.io/gnani/)
+- 👨‍💻 All of my projects are available at [https://66f11b33ef2baf970023fab4--starlit-caramel-1f4ca5.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, jQuery, Git**
 
